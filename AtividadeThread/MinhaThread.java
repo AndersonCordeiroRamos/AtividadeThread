@@ -16,7 +16,7 @@ public class MinhaThread extends Thread {
             }
 
         } catch (Exception e) {
-        
+            // TODO: handle exception
         }
     }
 }
