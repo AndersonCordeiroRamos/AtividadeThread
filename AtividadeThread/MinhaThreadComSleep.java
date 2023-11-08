@@ -14,7 +14,7 @@ public class MinhaThreadComSleep extends Thread{
                 System.out.println("Thread "+ nome + ":" + i);
             }
         } catch (Exception e) {
-            
+            // TODO: handle exception
         }
     }
 
